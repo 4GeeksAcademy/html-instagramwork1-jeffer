@@ -1,0 +1,10 @@
+body{
+    color: black;
+}
+.fondo {
+    background-color: black;
+}
+.Post {
+    background-color: rgb(241, 144, 17);
+    display: flex;
+}
